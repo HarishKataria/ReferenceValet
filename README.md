@@ -1,4 +1,4 @@
-# ** ReferenceValet **
+# **ReferenceValet**
 ##### A framework to help cut-down on boilerplate reference management code.
 
 ---
